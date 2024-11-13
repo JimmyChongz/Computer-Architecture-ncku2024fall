@@ -1,5 +1,5 @@
 # Computer-Architecture-ncku2024fall
-### Assignment1: RISC-V Assembly and Instruction Pipeline
+## Assignment1: RISC-V Assembly and Instruction Pipeline
 contributed by <[徐崇智](https://hackmd.io/@Jimmy-Xu)>
 ## [Quiz1](https://hackmd.io/@sysprog/arch2024-quiz1-sol) - Problem `C`
 ### C implementation of `__builtin_clz`
